@@ -1,4 +1,4 @@
-# rapport_wakatime
+# Rapports wakatime
 Screenshot des rapports wakatime durant la formation BeCode
 
 - [ ] [Rapports wakatime du mois de février](https://github.com/CalcagnoLoic/rapport_wakatime/tree/main/rapports_fevrier)
